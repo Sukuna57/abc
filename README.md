@@ -1,5 +1,5 @@
 #include<studia.h>
 void()
 {
-printf(hello abc)
+printf(hello abc hello)
 }
